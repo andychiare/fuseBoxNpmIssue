@@ -1,0 +1,20 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "My Test Package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node fuse",
+    "dist": "node fuse dist",
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "fuse-box": "^3.5.0-next.4",
+    "tslib": "^1.7.1",
+    "typescript": "^2.1.4",
+    "uglify-js": "^3.0.15"
+  }
+}
